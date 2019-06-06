@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61efb1cf-bd24-4dcb-b8c5-badfbc961d88" name="Default Changelist" comment="" />
+    <list default="true" id="61efb1cf-bd24-4dcb-b8c5-badfbc961d88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/admin-import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin-settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/write-panels/writepanel-order_data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin-attributes.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin-attributes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin-post-types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin-settings-options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin-init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-install.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin-install.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/jigoshop-write-panels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/write-panels/product-types/grouped.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/write-panels/product-types/virtual.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jigoshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/jigoshop.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,16 +36,131 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jigoshop.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4440">
+              <caret line="296" column="74" selection-start-line="296" selection-start-column="74" selection-end-line="296" selection-end-column="74" />
+              <folding>
+                <element signature="e#6#173#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-install.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="334" column="17" selection-start-line="334" selection-start-column="17" selection-end-line="334" selection-end-column="17" />
+              <folding>
+                <element signature="e#6#184#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-post-types.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="340" column="65" selection-start-line="340" selection-start-column="65" selection-end-line="340" selection-end-column="65" />
+              <folding>
+                <element signature="e#6#210#0#PHP" expanded="true" />
+                <element signature="e#17#24#1" expanded="true" />
+                <element signature="e#17#24#1" expanded="true" />
+                <element signature="e#17#24#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="326" column="52" lean-forward="true" selection-start-line="326" selection-start-column="52" selection-end-line="326" selection-end-column="52" />
+              <folding>
+                <element signature="e#6#272#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="e#27777#27783#0#HTML" expanded="true" />
+                <element signature="e#28232#28267#0#HTML" expanded="true" />
+                <element signature="e#28916#28951#0#HTML" expanded="true" />
+                <element signature="e#30004#30039#0#HTML" expanded="true" />
+                <element signature="e#32349#32370#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/write-panels/writepanel-order_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="535" column="170" lean-forward="true" selection-start-line="535" selection-start-column="170" selection-end-line="535" selection-end-column="170" />
+              <folding>
+                <element signature="e#6#139#0#PHP" expanded="true" />
+                <element signature="e#30#37#0" expanded="true" />
+                <element signature="e#20732#20795#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-import.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="86" column="49" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/admin-attributes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3450">
+              <caret line="230" column="95" selection-start-line="230" selection-start-column="95" selection-end-line="230" selection-end-column="95" />
+              <folding>
+                <element signature="e#6#281#0#PHP" expanded="true" />
+                <element signature="e#3955#3975#0#HTML" expanded="true" />
+                <element signature="e#17#24#1" expanded="true" />
+                <element signature="e#17#24#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Woo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>markt</replace>
+      <replace>Markt</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,18 +169,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/jigoshop.php" />
+        <option value="$PROJECT_DIR$/admin/admin-attributes.php" />
+        <option value="$PROJECT_DIR$/admin/jigoshop-admin.php" />
+        <option value="$PROJECT_DIR$/admin/admin-dashboard.php" />
+        <option value="$PROJECT_DIR$/admin/admin-import.php" />
+        <option value="$PROJECT_DIR$/admin/admin-init.php" />
+        <option value="$PROJECT_DIR$/admin/admin-install.php" />
+        <option value="$PROJECT_DIR$/admin/admin-post-types.php" />
+        <option value="$PROJECT_DIR$/admin/admin-settings.php" />
+        <option value="$PROJECT_DIR$/admin/write-panels/writepanel-order_data.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/markt.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="459" />
@@ -68,6 +201,17 @@
               <item name="markt" type="b2602c69:ProjectViewProjectNode" />
               <item name="markt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="markt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markt" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markt" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="write-panels" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -76,8 +220,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -103,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559702617763</updated>
-      <workItem from="1559702618940" duration="44000" />
+      <workItem from="1559702618940" duration="6652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44000" />
+    <option name="totallyTimeSpent" value="6652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="459" width="1680" height="591" extended-state="0" />
@@ -123,7 +271,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32865733" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -145,7 +293,97 @@
     <entry file="file://$PROJECT_DIR$/jigoshop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="86" column="49" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-attributes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="95" selection-start-line="230" selection-start-column="95" selection-end-line="230" selection-end-column="95" />
+          <folding>
+            <element signature="e#6#281#0#PHP" expanded="true" />
+            <element signature="e#3955#3975#0#HTML" expanded="true" />
+            <element signature="e#17#24#1" expanded="true" />
+            <element signature="e#17#24#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="535" column="170" lean-forward="true" selection-start-line="535" selection-start-column="170" selection-end-line="535" selection-end-column="170" />
+          <folding>
+            <element signature="e#6#139#0#PHP" expanded="true" />
+            <element signature="e#30#37#0" expanded="true" />
+            <element signature="e#20732#20795#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="296" column="74" selection-start-line="296" selection-start-column="74" selection-end-line="296" selection-end-column="74" />
+          <folding>
+            <element signature="e#6#173#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="334" column="17" selection-start-line="334" selection-start-column="17" selection-end-line="334" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#184#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-post-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="340" column="65" selection-start-line="340" selection-start-column="65" selection-end-line="340" selection-end-column="65" />
+          <folding>
+            <element signature="e#6#210#0#PHP" expanded="true" />
+            <element signature="e#17#24#1" expanded="true" />
+            <element signature="e#17#24#1" expanded="true" />
+            <element signature="e#17#24#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="326" column="52" lean-forward="true" selection-start-line="326" selection-start-column="52" selection-end-line="326" selection-end-column="52" />
+          <folding>
+            <element signature="e#6#272#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="e#27777#27783#0#HTML" expanded="true" />
+            <element signature="e#28232#28267#0#HTML" expanded="true" />
+            <element signature="e#28916#28951#0#HTML" expanded="true" />
+            <element signature="e#30004#30039#0#HTML" expanded="true" />
+            <element signature="e#32349#32370#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/write-panels/writepanel-order_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
         </state>
       </provider>
     </entry>

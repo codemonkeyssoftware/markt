@@ -8,8 +8,8 @@ Author: Jigowatt
 Author URI: http://jigowatt.co.uk
 Requires at least: 3.1
 Tested up to: 3.1.3
-GitHub Plugin URI: https://github.com/codemonkeyssoftware/markt
 */
+
 @session_start();
 
 if (!defined("JIGOSHOP_VERSION")) define("JIGOSHOP_VERSION", "0.9.9");	
